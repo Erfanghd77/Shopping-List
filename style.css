@@ -20,5 +20,5 @@
 
 .done {
   text-decoration: line-through;
-text-align : center;
+  font-size: 3rem;
 }
